@@ -1,0 +1,5 @@
+venv
+.vscode
+ganache/tmp
+__pycache__/
+*.pyc
