@@ -8,8 +8,7 @@ We define a mechanism that openings of commitments that remain publicly hidden c
 
 In this way sharing a secret value is done without a private reveal phase communication cost.
  
-Here a encryption and decryption mechanism is developed only for openings of Pedersen commitments which are widely used commitment scheme.
-
+Here an encryption and decryption mechanism is developed only for openings of Pedersen commitments which are widely used commitment scheme.
 
 ### Overview
 
@@ -139,6 +138,6 @@ where `i` is the number of updates.
 
 ### Demo
 
-A simple demonstration is given at [test script](https://github.com/kilic/observable-commitments/test.py) where ethereum is used as the public machine.
+A simple demonstration is given at [test script](https://github.com/kilic/observable-commitments/blob/master/test.py) where ethereum is used as the public machine.
 
 
